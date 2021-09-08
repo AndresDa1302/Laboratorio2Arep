@@ -1,22 +1,24 @@
-TALLER CLIENTES Y SERVICIOS
-Este taller presenta diferentes retos que loa ayudaran a explorar los conceptos de esquemas de nombres y de clientes y servicios. Adicionalmente, el taller le ayudará a explorar la arquitectura de las aplicaciones distribuidas sobre internet.
+# Taller Servidor Clientes
+El taller le ayudará a explorar la arquitectura de las aplicaciones distribuidas sobre internet.
 
-Autor
-Andres Felipe Davila Gutierrez
-Contrucción
-Visual Studio Code - Editor de código y ambiente de desarrollo
-Maven - Gestor de dependencias
-BootStrap
+## Autor
+* Andres Felipe Davila Gutierrez
 
-Lenguajes
-HTTP
-JavaScript
-Java
-CSS
+## Contrucción
+* Visual Studio Code - Editor de código y ambiente de desarrollo
+* Maven - Gestor de dependencias
 
-Utilización
-La aplicacion se encuentra desplegada en el siguiente link
 
+# Lenguajes
+* HTTP
+* JavaScript
+* Java
+* Css
+
+## Utilización
+Esta aplicación se encuentra desplegada en Heroku
+
+[![Deploy]
 
 
 Reto 1 - Diseño
