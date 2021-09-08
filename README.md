@@ -18,7 +18,7 @@ El taller le ayudará a explorar la arquitectura de las aplicaciones distribuida
 ## Utilización
 Esta aplicación se encuentra desplegada en Heroku
 
-[![Deploy]https://laboratorio2arep.herokuapp.com/index.html]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://laboratorio2arep.herokuapp.com/index.html)
 
 
 Reto 1 - Diseño
